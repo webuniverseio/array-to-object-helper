@@ -1,6 +1,6 @@
 {
   "name": "array-to-object-helper",
-  "description": "Replaces destructuring with a simple carried function",
+  "description": "Replaces destructuring with a simple curried function",
   "version": "1.0.2",
   "main": "index.js",
   "license": "Unlicense",
