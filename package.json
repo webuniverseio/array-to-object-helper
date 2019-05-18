@@ -1,0 +1,13 @@
+{
+  "name": "array-to-object-helper",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "prepublish": "yarn test"
+  }
+}
