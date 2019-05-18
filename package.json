@@ -1,13 +1,29 @@
 {
   "name": "array-to-object-helper",
-  "version": "1.0.1",
+  "description": "Replaces destructuring with a simple carried function",
+  "version": "1.0.2",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Unlicense",
   "devDependencies": {
     "jest": "^24.8.0"
   },
   "scripts": {
     "test": "jest",
     "prepublish": "yarn test"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "destructuring",
+    "convert",
+    "transform"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webuniverseio/array-to-object-helper"
+  },
+  "author": {
+    "url": "https://webuniverse.io",
+    "name": "Sergey Zarovskiy"
   }
 }
