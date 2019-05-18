@@ -1,7 +1,7 @@
 {
   "name": "array-to-object-helper",
   "description": "Replaces destructuring with a simple curried function",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "Unlicense",
   "devDependencies": {
